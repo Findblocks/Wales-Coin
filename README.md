@@ -15,7 +15,7 @@ Wales is a Pow / POS based cryptocurrency.<br>
 <br>
 <br>
 
-http://www.walescoin.info/images/wales_640g.png
+
 
  At Wales Coin HQ we strive for perfection, for growth, and success. We are introducing a concurrency  Wich is the first  Welsh Concurrency of its kind !<br>
 
