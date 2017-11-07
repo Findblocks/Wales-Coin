@@ -1,6 +1,10 @@
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5046227.png" width="513" height="93" alt="Block Explorer" /></a>
 
+<br>
+<br>
+<br>
+<br>
 Wales Coin<br>
-
 <br>
 <br>
 <br>
@@ -11,6 +15,7 @@ Wales is a Pow / POS based cryptocurrency.<br>
 <br>
 <br>
 
+http://www.walescoin.info/images/wales_640g.png
 
  At Wales Coin HQ we strive for perfection, for growth, and success. We are introducing a concurrency  Wich is the first  Welsh Concurrency of its kind !<br>
 
@@ -32,7 +37,3 @@ RPCPort: 26254<br>
 P2Port: 26253<br>
 Coin name - Wales Coin<br>
 Coin abbreviation WALES<br>
-
-
-
-
