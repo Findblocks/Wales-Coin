@@ -1,0 +1,9 @@
+Building Wales
+
+See doc/readme-qt.rst for instructions on building Wales QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wales.
+
+See doc/build-*.txt for instructions on building walesd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wales.
